@@ -40,3 +40,11 @@ h2 {
   margin-bottom: 8px;
   padding: 8px 16px;
 }
+
+.li-item:last-child {
+  margin-bottom: 0;
+}
+
+#categories .item:last-child {
+  margin-bottom: 0;
+}
